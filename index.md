@@ -1,5 +1,6 @@
 # Recettes
 
-{% for post in site.posts | sort: "title" %}
+{% assign posts = site.posts | sort: "title" %}
+{% for post in posts %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
