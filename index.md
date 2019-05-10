@@ -1,14 +1,5 @@
 # Recettes
 
-
-{% for post in site.posts %}
+{% for post in site.posts | sort: "title" %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
-{% endfor %}
-
-{% for tag in site.tags %}
-## {{ tag[0] }}
-{% for post in tag[1] %}
-* [{{ post.title }}]({{site.baseurl}}{{ post.url }})
-{% endfor %}
-
 {% endfor %}
