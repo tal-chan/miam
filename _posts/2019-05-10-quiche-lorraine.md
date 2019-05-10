@@ -16,6 +16,6 @@ tags: [salé]
 
 ## Préparation
 1. Cuire la pâte à blanc pendant 15 à 20 minutes ou jusqu'à ce qu'elle soit complètement cuite
-2. Faire revenir les lardons ou le lard (préalablement découpé selon préférence) jusqu'à ce qu'ils soient bien dorés
+2. Faire dorer les lardons / le lard
 3. Mélanger les lardons, les oeufs, le fromage et la crème, en gardant un peu de fromage pour le dessus. Assaisonner.
 4. Garnir et cuire 20 à 30 minutes à 180°C
