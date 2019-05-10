@@ -5,7 +5,7 @@ tags: [sucré]
 ---
 
 # {{page.title}}
-D’après : https://www.marmiton.org/recettes/recette_pain-d-epices_11087.aspx
+D’après [marmiton.org](https://www.marmiton.org/recettes/recette_pain-d-epices_11087.aspx)
 
 ## Ingrédients:
 * 250  g de miel
