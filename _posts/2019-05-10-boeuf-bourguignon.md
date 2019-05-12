@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Boeuf Bourguignon"
 tags: [salé]
 ---
-
-# {{page.title}}
-
 ## Ingrédients:
 * 500 g de viande à bourguignon coupée en gros cubes
 * 200 g de lardons

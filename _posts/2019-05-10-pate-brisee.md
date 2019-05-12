@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Pâte brisée"
 tags: [salé]
 ---
-
-# {{page.title}}
 
 ## Ingrédients:
 * 150 g de beurre doux

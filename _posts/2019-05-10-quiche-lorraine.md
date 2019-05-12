@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Quiche Lorraine"
 tags: [salé]
 ---
-
-# {{page.title}}
 
 ## Ingrédients:
 * 500 g de [pâte brisée]({{ site.baseurl }}{% post_url 2019-05-10-pate-brisee %})
