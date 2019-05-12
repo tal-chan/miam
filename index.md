@@ -1,4 +1,4 @@
-# Recettes
+# Index
 
 {% assign posts = site.posts | sort: "title" %}
 {% for post in posts %}
