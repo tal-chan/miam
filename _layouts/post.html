@@ -5,3 +5,14 @@ layout: default
 <h1> {{page.title}} </h1>
 
 {{content}}
+
+tags:
+{%- assign tags = page.tags -%}
+{%- assign last = tags.size | minus: 1 -%}
+{%- for i in (0..last) -%}
+{% assign tag = tags[i] %}
+<a href="/{{site.baseurl}}tags.html#{{tag}}">{{tag}}</a>
+{%- if i!=last -%}
+,
+{%- endif -%}
+{%- endfor -%}
