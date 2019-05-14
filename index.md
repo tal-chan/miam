@@ -4,3 +4,5 @@
 {% for post in posts %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
+
+[Par tags](./tags.md)
