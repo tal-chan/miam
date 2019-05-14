@@ -5,7 +5,6 @@ tags: [salé]
 ---
 
 ## Ingrédients:
-{{site.baseurl}}
 * 500 g de [pâte brisée]({{ site.baseurl }}{% post_url 2019-05-10-pate-brisee %})
 * 200 g de lard fumé ou lardons
 * 200 g de fromage à pâte pressée cuite (comté, beaufort, emmental... )
