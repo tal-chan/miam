@@ -11,7 +11,7 @@ tags:
 {%- assign last = tags.size | minus: 1 -%}
 {%- for i in (0..last) -%}
 {% assign tag = tags[i] %}
-<a href="/{{site.baseurl}}tags.html#{{tag}}">{{tag}}</a>
+<a href="{{site.baseurl}}/tags.html#{{tag}}">{{tag}}</a>
 {%- if i!=last -%}
 ,
 {%- endif -%}
