@@ -29,7 +29,7 @@ tags: [salé]
 6. Couper en petits patons de 2 cm en faisant tourner le boudin d'un quart de tour entre chaque coupe (pour éviter d'aplatir les patons)
 7. Étaler la pâte pour former des disques d'environ 8 cm de diamètre. Le bord doit être plus fin que le centre. Le meilleur outil pour ceci est le rouleau à pâtisserie chinois (voir illustration) : il faut aplatir le paton par le bord en maniant le rouleau d'une main et en faisant tourner le paton de l'autre.
 
-![rouleau]({% link /assets/rouleau.jpeg %})
+![rouleau]({{site.baseurl}}/assets/rouleau.jpeg)
 
 ### Farce
 1. Dans un saladier, ajouter la sauce soja, l'huile, le vin blanc, l'échalotte et le gingembre à la viande. Saler.
