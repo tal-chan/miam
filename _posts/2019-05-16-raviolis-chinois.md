@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "饺子 -- Raviolis Chinois"
+title: "饺子 – Raviolis Chinois"
 tags: [salé]
 ---
 ## Ingrédients
