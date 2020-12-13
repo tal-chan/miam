@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boeuf Bourguignon"
-tags: [salé]
+tags: [salé, automne, hiver]
 ---
 ## Ingrédients:
 * 500 g de viande à bourguignon coupée en gros cubes
