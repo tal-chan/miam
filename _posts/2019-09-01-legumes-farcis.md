@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Légumes farcis"
-tags: [salé]
+tags: [salé, été]
 ---
 ## Ingrédients:
 
