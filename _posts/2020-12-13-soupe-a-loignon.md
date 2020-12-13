@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Soupe à l'oignon"
-tags: [salé]
+tags: [salé, automne, hiver]
 ---
 
 ## Ingrédients:
