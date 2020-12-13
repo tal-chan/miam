@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pain d'épices"
-tags: [sucré]
+tags: [sucré, hiver]
 ---
 
 D’après [marmiton.org](https://www.marmiton.org/recettes/recette_pain-d-epices_11087.aspx)
