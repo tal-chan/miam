@@ -3,16 +3,19 @@ layout: post
 title: "Boeuf Bourguignon"
 tags: [salé, automne, hiver]
 ---
-## Ingrédients:
-* 500 g de viande à bourguignon coupée en gros cubes
-* 200 g de lardons
-* 600 g de pommes de terre
-* 4 carottes
-* 4 gros oignons
-* Une bouteille de vin rouge
-* [Optionnel] Bouquet garni, champignons, ail
+
+## Ingrédients
+
+- 500 g de viande à bourguignon coupée en gros cubes
+- 200 g de lardons
+- 600 g de pommes de terre
+- 4 carottes
+- 4 gros oignons
+- Une bouteille de vin rouge
+- [Optionnel] Bouquet garni, champignons, ail
 
 ## Préparation
+
 1. Faire dorer les lardons dans un fait-tout et les réserver
 2. Saisir les cubes de viande à bourguignon sur toutes les faces en plusieurs fois
 3. Pendant ce temps, éplucher et couper grossièrement les légumes

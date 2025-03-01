@@ -6,14 +6,15 @@ tags: [sucré]
 
 D'après [healthyfoodcreation](https://www.healthyfoodcreation.fr/cookies-a-la-puree-damandes/).
 
-## Ingrédients:
-* 1 oeuf
-* 40 g de sucre roux
-* 90 g de purée d'amande 
-* 1 pincée de sel
-* 100 g de flocons d'avoine
-* 20 g d'amandes entières
-* (Optionnel) 1/2 à 1 cuillère à café d'arôme amande amère selon les goûts
+## Ingrédients
+
+- 1 oeuf
+- 40 g de sucre roux
+- 90 g de purée d'amande
+- 1 pincée de sel
+- 100 g de flocons d'avoine
+- 20 g d'amandes entières
+- (Optionnel) 1/2 à 1 cuillère à café d'arôme amande amère selon les goûts
 
 ## Préparation
 
@@ -26,7 +27,9 @@ D'après [healthyfoodcreation](https://www.healthyfoodcreation.fr/cookies-a-la-p
 7. Enfourner 15 minutes puis laisser refroidir à la sortie du four.
 
 ## Conservation
+
 4 jours à l'air libre
 
 ## Suggestion de présentation
+
 Décorer chaque cookie d'une amande entière pour signaler la présence d'amande.

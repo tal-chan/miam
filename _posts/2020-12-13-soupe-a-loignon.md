@@ -4,18 +4,20 @@ title: "Soupe à l'oignon"
 tags: [salé, automne, hiver]
 ---
 
-## Ingrédients:
-* 1 kg d'oignons
-* huile d'olive
-* beurre
-* 1 bouillon de volaille en cube
-* vin blanc
-* sel, poivre
-* 1 baguette un peu sèche pour les croûtons
-* 2-3 gousses d'ail (1 pour la soupe et 1-2 pour les croûtons)
-* 120 g d'emmental râpé
+## Ingrédients
+
+- 1 kg d'oignons
+- huile d'olive
+- beurre
+- 1 bouillon de volaille en cube
+- vin blanc
+- sel, poivre
+- 1 baguette un peu sèche pour les croûtons
+- 2-3 gousses d'ail (1 pour la soupe et 1-2 pour les croûtons)
+- 120 g d'emmental râpé
 
 ## Préparation
+
 1. Faire dorer les oignons coupés en lamelles dans le beurre et l'huile. Ajouter une gousse d'ail hachée.
 2. Ajouter 1 L d'eau et 20 cL de vin blanc avec le cube de bouillon. Saler, poivrer.
 3. Laisser mijoter 20 minutes.

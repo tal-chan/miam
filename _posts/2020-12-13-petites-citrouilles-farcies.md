@@ -4,18 +4,20 @@ title: "Petites citrouilles farcies"
 tags: [salé, automne]
 ---
 
-## Ingrédients:
-* 4 petites citrouilles
-* 250 g de riz
-* Champignons
-* Marrons grillés
-* Quelques lamelles d'emmental ou autre fromage à pâte pressée
-* Oignons et/ou échalottes, ail, persil
-* Vin blanc
-* Paprika fumé.
-* Bouillon, huile d'olive, sel, poivre
+## Ingrédients
+
+- 4 petites citrouilles
+- 250 g de riz
+- Champignons
+- Marrons grillés
+- Quelques lamelles d'emmental ou autre fromage à pâte pressée
+- Oignons et/ou échalottes, ail, persil
+- Vin blanc
+- Paprika fumé.
+- Bouillon, huile d'olive, sel, poivre
 
 ## Préparation
+
 1. Faire cuire les citrouilles entières 15 minutes dans une casserole d'eau frémissante.
 2. Peler et concasser grossièrement les marrons grillés.
 3. Couper les champignons en dés.
@@ -27,5 +29,6 @@ tags: [salé, automne]
 9. Faire cuire le riz façon pilaf avec le reste de farce, servir avec les citrouilles.
 
 ## Suggestions de variantes
-* Pour les amateurs de viande, on peut ajouter des lardons fumés à la farce.
-* Pour une version végétale sans le fromage, on peut mettre des noix, noisettes ou amandes dans la farce et ajouter des lentilles vertes au riz.
+
+- Pour les amateurs de viande, on peut ajouter des lardons fumés à la farce.
+- Pour une version végétale sans le fromage, on peut mettre des noix, noisettes ou amandes dans la farce et ajouter des lentilles vertes au riz.
